@@ -1,8 +1,8 @@
-*{
+* {
   margin: 0;
   padding: 0;
 }
-body{
+body {
   overflow: hidden;
 }
 .ball {
@@ -24,8 +24,10 @@ body{
 /* Display flex & to center items used justify-content:center */
 .d-flex {
   display: flex;
-  justify-content: center;
   flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
 }
 
 .d-flex * {
@@ -34,7 +36,8 @@ body{
   margin-bottom: 1rem;
 }
 
-.d-flex h1, .d-flex p {
+.d-flex h1,
+.d-flex p {
   max-width: 800px;
 }
 
@@ -47,4 +50,14 @@ body{
   transition-duration: 0.4s;
   cursor: pointer;
   max-width: 170px;
+}
+
+.footer {
+  position: fixed;
+  width: 100%;
+  height: 70px;
+  bottom: 0;
+  left: 0;
+  background-color: #34a1eb;
+  text-align: center;
 }

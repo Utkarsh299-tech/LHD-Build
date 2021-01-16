@@ -4,9 +4,7 @@ const body = document.querySelector('body');
 const button = document.querySelector('button');
 const word = document.createElement('h1');
 document.querySelector(".d-flex").appendChild(word);
-// body.appendChild(word);
 const definition = document.createElement('p');
-// body.appendChild(definition);
 document.querySelector(".d-flex").appendChild(definition);
 
 const randomWord = () => {
@@ -35,7 +33,7 @@ const randomDefinition = (word) => {
     })
     .catch(err => {
       definition.textContent = "No definition";
-      // body.appendChild(definition);
+      document.querySelector(".d-flex").appendChild(definition);
       console.log(err);
     })
 
