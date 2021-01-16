@@ -3,9 +3,11 @@ var mykey = config.key;
 const body = document.querySelector('body');
 const button = document.querySelector('button');
 const word = document.createElement('h1');
-body.appendChild(word);
+document.querySelector(".d-flex").appendChild(word);
+// body.appendChild(word);
 const definition = document.createElement('p');
-body.appendChild(definition);
+// body.appendChild(definition);
+document.querySelector(".d-flex").appendChild(definition);
 
 const randomWord = () => {
     fetch('https://random-word-api.herokuapp.com/word?number=1')
@@ -33,7 +35,7 @@ const randomDefinition = (word) => {
     })
     .catch(err => {
       definition.textContent = "No definition";
-      body.appendChild(definition);
+      // body.appendChild(definition);
       console.log(err);
     })
 

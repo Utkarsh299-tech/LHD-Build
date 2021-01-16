@@ -1,19 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  overflow: hidden;
+}
 .ball {
   position: absolute;
   border-radius: 100%;
   opacity: 0.7;
 }
+.header {
+  width: 100vw;
+  background-color: #008cba;
+  color: beige;
+  padding: 1.5rem;
+  margin: 0 0 1.5rem 0;
+  text-align: center;
+}
+.header .h-text {
+  font-size: 2.5rem;
+}
 /* Display flex & to center items used justify-content:center */
-.d-flex{
+.d-flex {
   display: flex;
   justify-content: center;
+  flex-direction: column;
 }
+
+.d-flex * {
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 1rem;
+}
+
+.d-flex h1, .d-flex p {
+  max-width: 800px;
+}
+
 .button {
   border: none;
   color: beige;
-  background-color: #008CBA;
+  background-color: #008cba;
   padding: 16px 32px;
   font-size: 16px;
   transition-duration: 0.4s;
   cursor: pointer;
+  max-width: 170px;
 }
