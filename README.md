@@ -9,3 +9,25 @@ Emojicode is a real programming language with playful syntax like 😀 🔤Hello
 Prints initials of the name. Also, prints the name entered by the user. [Reference](https://www.codecademy.com/learn/learn-emojicode)
 
 ### Learn [Emojicode](https://www.emojicode.org/)
+
+## 2.Dataset Project: Natural Language Processing
+
+### What it does?
+This project classifies whether your mail is 'ham'(good) or 'spam'(bad).
+
+### How we built it?
+Using Machine Learning `scikit` library and the basic concepts of Natural Language Processing. Also, used Jupyter notebook for writing and executing the code.
+
+***Machine Learning***
+
+Machine learning is a method of data analysis that automates analytical model building. 
+It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.
+
+***Natural Language Processing***
+
+Natural Language Processing, usually shortened as NLP, is a branch of artificial intelligence that deals with the interaction between computers and humans using the natural language.
+The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
+
+***Scikit Library***
+
+Open-source ML library for Python. Built on NumPy, SciPy, and Matplotlib. Want to learn more about this library? [Click here!](https://scikit-learn.org/stable/)
