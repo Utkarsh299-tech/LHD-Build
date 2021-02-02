@@ -16,7 +16,7 @@ Prints initials of the name. Also, prints the name entered by the user. [Referen
 This project classifies whether your mail is 'ham'(good) or 'spam'(bad).
 
 ### How we built it?
-Using Machine Learning `scikit` library and the basic concepts of Natural Language Processing. Also, used Jupyter notebook for writing and executing the code.
+Using Machine Learning `scikit` library and the basic concepts of Natural Language Processing. Also, used [Jupyter notebook](https://jupyter.org/) for writing and executing the code.
 
 ***Machine Learning***
 
