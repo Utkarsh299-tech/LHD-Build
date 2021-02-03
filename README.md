@@ -38,7 +38,6 @@ Open-source ML library for Python. Built on NumPy, SciPy, and Matplotlib. Want t
 ## 3. API Project: Random Word Generator
 <p align="center"><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/342/725/datas/original.png"></p>
 
-
 Random Word Generator that connects two APIs and pulls from a separate API that gives you those word definitions. We can easily generate a random word and it's definitions by connecting both the APIs.
 
 ### How we built it?
