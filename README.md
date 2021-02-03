@@ -13,7 +13,7 @@ Prints initials of the name. Also, prints the name entered by the user. [Referen
 ### Learn [Emojicode](https://www.emojicode.org/)
 
 ## 2.Dataset Project: Natural Language Processing
-<p align="center"><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/341/495/datas/ocriginal.jpg"></p>
+<p align="center"><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/341/495/datas/original.jpg"></p>
 
 ### What it does?
 This project classifies whether your mail is 'ham'(good) or 'spam'(bad).
