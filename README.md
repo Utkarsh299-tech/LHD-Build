@@ -13,7 +13,7 @@ Prints initials of the name. Also, prints the name entered by the user. [Referen
 ### Learn [Emojicode](https://www.emojicode.org/)
 
 ## 2.Dataset Project: Natural Language Processing
-<p align="center"><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/341/495/datas/original.jpg"></p>
+<p align="center"><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/341/495/datas/ocriginal.jpg"></p>
 
 ### What it does?
 This project classifies whether your mail is 'ham'(good) or 'spam'(bad).
@@ -36,6 +36,9 @@ The ultimate objective of NLP is to read, decipher, understand, and make sense o
 Open-source ML library for Python. Built on NumPy, SciPy, and Matplotlib. Want to learn more about this library? [Click here!](https://scikit-learn.org/stable/)
 
 ## 3. API Project: Random Word Generator
+<p align="center"><img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/342/725/datas/original.png"></p>
+
+
 Random Word Generator that connects two APIs and pulls from a separate API that gives you those word definitions. We can easily generate a random word and it's definitions by connecting both the APIs.
 
 ### How we built it?
