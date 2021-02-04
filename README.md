@@ -47,14 +47,25 @@ Connecting two APIs: 1) https://dictionaryapi.com/products/api-collegiate-dictio
 JavaScript concepts, how APIs work, and how to connect two APIs.
 
 ## 4. Sorting a List
-Sorting a list means arranging the items of the list in either ascending, descending or user defined order.
-There are various sorting techniques. Some of them are:
-Quick sort
-Bubble sort
-Merge sort
-Insertion sort
-Selection sort
-Heap sort
-Radix sort
-Bucket sort
 
+Sorting a list means arranging the items of the list in either ascending, descending or user defined order.
+
+There are various sorting techniques. Some of them are:
+
+Quick sort
+
+Bubble sort
+
+Merge sort
+
+Insertion sort
+
+Selection sort
+
+<p><img src="https://github.com/Utkarsh299-tech/LHD-Build/blob/main/sorting-a-list/selection_sort.jpg?raw=true"></p>
+
+Heap sort
+
+Radix sort
+
+Bucket sort
