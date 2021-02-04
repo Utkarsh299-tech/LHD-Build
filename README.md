@@ -69,3 +69,7 @@ Heap sort
 Radix sort
 
 Bucket sort
+
+## What it does?
+This code sorts a list entered by the user and returns a list in sorted order.
+
