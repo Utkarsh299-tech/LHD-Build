@@ -68,7 +68,8 @@ In every iteration of selection sort, the minimum element (considering ascending
 
 Following example explains the above steps:
 
-```arr[] = 64 25 12 22 11
+```
+arr[] = 64 25 12 22 11
 
 // Find the minimum element in arr[0...4]
 // and place it at beginning
@@ -84,19 +85,14 @@ Following example explains the above steps:
 
 // Find the minimum element in arr[3...4]
 // and place it at beginning of arr[3...4]
-11 12 22 25 64```
-
-Flowchart of the Selection Sort:
-
-<p align="center"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Selection-sort-flowchart.jpg"></p>
+11 12 22 25 64
+```
 
 Merge sort
 
 Insertion sort
 
 Selection sort
-
-<p><img src="https://github.com/Utkarsh299-tech/LHD-Build/blob/main/sorting-a-list/selection_sort.jpg?raw=true"></p>
 
 Heap sort
 
@@ -105,5 +101,14 @@ Radix sort
 Bucket sort
 
 ## What it does?
-This code sorts a list entered by the user and returns a list in sorted order.
+
+This code sorts a list entered by the user and returns a list in sorted order. Selection sort is used for sorting the list.
+
+Flowchart of the Selection Sort:
+
+<p align="center"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/Selection-sort-flowchart.jpg"></p>
+
+
+## Reference
+Learn more about [Selection Sort](https://www.geeksforgeeks.org/selection-sort/)
 
